@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dfb6f2c85abb21d4e95a3312a1fffeba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - concrete_block: {fileID: 748982550599303881, guid: b23412aec5678d94291cd91d2c673d7d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
